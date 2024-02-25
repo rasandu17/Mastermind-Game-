@@ -68,9 +68,5 @@ It took you only 3 tries.
 
 You can modify the code to make the game harder by increasing the number of digits or not disclosing the correct positions of guessed digits.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Remember to replace "your-username" in the GitHub clone URL with your actual GitHub username. Also, make sure to include the license file if you decide to choose a specific license for your project.
